@@ -4,7 +4,6 @@
   
 [![Eungbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eungbin)](https://github.com/eungbin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eungbin&hide=C,html,Makefile,Tex)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   
